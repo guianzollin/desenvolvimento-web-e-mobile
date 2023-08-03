@@ -1,0 +1,28 @@
+header {
+    height: 100px;
+    background-color: azure;
+}
+
+nav {
+    height: 50px;
+    background-color: aquamarine;
+}
+
+section {
+    float: left;
+    height: 200px;
+    width: 70%;
+    background-color: bisque;
+}
+
+aside {
+    float: left;
+    height: 200px;
+    width: 30%;
+    background-color: darkgray;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
