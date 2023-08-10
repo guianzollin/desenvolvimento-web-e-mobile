@@ -1,23 +1,23 @@
 header {
-    height: 100px;
+    height: 200px;
     background-color: azure;
 }
 
 nav {
-    height: 50px;
+    height: 70px;
     background-color: aquamarine;
 }
 
-section {
+#section-1 {
     float: left;
-    height: 200px;
+    min-height: 400px;
     width: 70%;
     background-color: bisque;
 }
 
-aside {
+#section-2 {
     float: left;
-    height: 200px;
+    min-height: 400px;
     width: 30%;
     background-color: darkgray;
 }
