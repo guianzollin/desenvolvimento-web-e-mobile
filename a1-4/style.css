@@ -1,0 +1,125 @@
+@font-face {
+    font-family: Inter;
+    src: url(fonts/Inter.ttf);
+}
+
+.navegacao {
+    background-color: #212529;
+}
+
+.logo {
+    margin-top: 29px;
+    margin-bottom: 29px;
+}
+
+.navegacao-items {
+    margin-top: 29px;
+    margin-bottom: 29px;
+}
+
+li {
+    color: #F8F9FA;
+    display: inline;
+    margin-right: 20px;
+    margin-left: 20px;
+    color: #F8F9FA;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.secao-1 {
+    background: #DEE2E6;
+}
+
+.titulo-1 {
+    color: #212529;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 169px;
+}
+
+.titulo-2 {
+    color: #6C757D;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.botao-1 {
+    display: inline-flex;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    background: #212529;
+    color: #F8F9FA;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 139px;
+}
+
+.botao-2 {
+    display: inline-flex;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    border: 2px solid #212529;
+    background: #F8F9FA;
+    border-radius: 10px;
+    border: 2px solid #212529;
+    background: #F8F9FA;
+    color: #212529;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.foto {
+    margin-top: 169px;
+}
+
+.titulo-3 {
+    color: #212529;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.grupo-1 {
+    padding-top: 93px;
+    padding-bottom: 93px;
+}
+
+.texto-1 {
+    color: #212529;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 608px;
+    height: 100px;
+    flex-shrink: 0;
+}
